@@ -21,7 +21,7 @@
 //  Programming languages: One modules in C and one module in X86
 //  Date program began: 2023 March 20
 //  Date of last update: 2023 March 20
-//  Files in this program: rectangle.c, manager.asm
+//  Files in this program: main.c, manager.asm
 //  Status: Finished.
 //
 //Purpose
